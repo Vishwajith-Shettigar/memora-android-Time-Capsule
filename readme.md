@@ -36,4 +36,4 @@ Welcome to **Memora** – the app that lets you create virtual time capsules. St
 
 ---
 
-Stay connected, store memories, and explore the world with Memora!
+Stay connected, store memories, and explore the world with memora!
