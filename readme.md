@@ -33,8 +33,13 @@ Welcome to **Memora** – the app that lets you create virtual time capsules. St
 | ----------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------- |
 | ![screenshot1](https://github.com/user-attachments/assets/f272a0a9-41ba-497e-a349-76d086ede68d) | ![screenshot2](https://github.com/user-attachments/assets/24c9d5f0-8cf4-45ca-b013-d807fc64c4f6) | ![screenshot3](https://github.com/user-attachments/assets/88c84980-279f-4f7e-8668-66e8ea01be42) |
 | ![screenshot4](https://github.com/user-attachments/assets/62a76d3f-7109-4c25-8f2c-9918dca5c738) | ![screenshot7](https://github.com/user-attachments/assets/02d4d9b4-90c9-489d-be24-b7c331457e2b) | ![screenshot8](https://github.com/user-attachments/assets/22369f49-4f81-4cea-8617-8d720f62bd23) |
-| ![screenshot6](https://github.com/user-attachments/assets/9f184a69-ca5a-4763-9d7e-868810f912d5) |  |  |
+| ![screenshot6](https://github.com/user-attachments/assets/9f184a69-ca5a-4763-9d7e-868810f912d5) | ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled__5_-removebg-preview](https://github.com/user-attachments/assets/8f43ca48-e4eb-4011-899c-a66d39958cfd) | ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled__3_-removebg-preview](https://github.com/user-attachments/assets/3877dca6-c9c4-4693-8927-bd07f6cfd1cf)|
+| ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled__2_-removebg-preview](https://github.com/user-attachments/assets/68887cf7-c176-4de0-b69a-0b3fadfd00d9) | ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled__1_-removebg-preview](https://github.com/user-attachments/assets/c031ea55-8d91-4dd5-91d1-88f9a1cbd4fb) | ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled-removebg-preview](https://github.com/user-attachments/assets/3792b4a5-927f-45ac-b76b-2ef3c3f3179b) |
+| ![Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled__4_-removebg-preview](https://github.com/user-attachments/assets/762cfdd4-938a-4407-a3a9-2e03ace1eedf) |  
 
+
+
+https://github.com/user-attachments/assets/a7d5960f-6245-4e75-876a-fa5057d64746
 
 
 ---
