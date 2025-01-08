@@ -39,7 +39,10 @@ Welcome to **Memora** – the app that lets you create virtual time capsules. St
 
 
 
-https://github.com/user-attachments/assets/a7d5960f-6245-4e75-876a-fa5057d64746
+
+https://github.com/user-attachments/assets/59e0c072-4738-4e42-b80d-70accc1289f5
+
+
 
 
 ---
