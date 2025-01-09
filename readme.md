@@ -8,7 +8,7 @@ Welcome to **Memora** – the app that lets you create virtual time capsules. St
 
 ## Tech Used
 
-**Android** | **Kotlin** | **Gradle**  | **Hilt** | **Google Maps SDK** | **Mapbox SDK** | **SceneView AR SDK** | **Jetpack Compose** | **Node.js** | **Firebase** | **Stripe** | **Firebase Cloud Messaging**
+**Android** | **Kotlin** | **Gradle**  | **Hilt** | **Google Maps Api** | **Mapbox Api** | **SceneView AR SDK** | **Jetpack Compose** | **Node.js** | **Firebase** | **Stripe** | **Firebase Cloud Messaging**
 
 ## Features
 
